@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+
+# React Native / Node
+node_modules/
+
+# Expo
+.expo/
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
